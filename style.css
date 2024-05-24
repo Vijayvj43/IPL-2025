@@ -1,0 +1,95 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+}
+
+h1, h2 {
+
+    text-align: center;
+
+}
+
+.team-buttons {
+
+    text-align: center;
+
+}
+
+button {
+
+    padding: 10px 20px;
+
+    margin: 10px;
+
+    border: none;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+}
+
+.yellow { background-color: yellow; }
+
+.blue { background-color: blue; }
+
+.purple { background-color: purple; }
+
+.black { background-color: black; color: white; }
+
+.light-red { background-color: lightcoral; }
+
+.pink { background-color: pink; }
+
+.orange { background-color: orange; }
+
+.dark-red { background-color: darkred; color: white; }
+
+.hidden {
+
+    display: none;
+
+}
+
+#form-container, #batsman-container, #allrounders-container, #wicket-keepers-container, #bowlers-container {
+
+    margin: 20px auto;
+
+    width: 300px;
+
+    text-align: center;
+
+}
+
+input {
+
+    width: 100%;
+
+    padding: 10px;
+
+    box-sizing: border-box;
+
+    margin-bottom: 10px;
+
+}
+
+button {
+
+    width: 100%;
+
+    padding: 10px;
+
+    box-sizing: border-box;
+
+    background-color: #4CAF50;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+}
